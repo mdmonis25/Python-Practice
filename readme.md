@@ -6,3 +6,4 @@
 6. Perfect Number
 7. Prime Number
 8. Seperate Digits
+9. Palindrome Number
