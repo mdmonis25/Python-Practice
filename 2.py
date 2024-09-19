@@ -1,3 +1,4 @@
+# Check Leap Year
 y = int(input("Enter the year: "))
 
 if y %4==0 and y%100 !=0:
