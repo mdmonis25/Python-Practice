@@ -3,3 +3,4 @@
 3. Checking Vowels and Consonents
 4. Factorial of a number
 5. Factors of a number
+6. Perfect Number
