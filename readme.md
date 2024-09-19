@@ -5,3 +5,4 @@
 5. Factors of a number
 6. Perfect Number
 7. Prime Number
+8. Seperate Digits
